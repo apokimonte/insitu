@@ -12,3 +12,13 @@ img,
 video {
   display: block;
 }
+
+body {
+  background-color: black;
+}
+
+@font-face {
+  font-family: "Podium";
+  src: url("../font/Fontspring-DEMO-podiumsharp-1.12.woff2") format("woff2"),
+    url("../font/Fontspring-DEMO-podiumsharp-1.12.woff") format("woff");
+}
